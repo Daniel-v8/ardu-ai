@@ -1,0 +1,7 @@
+.claude/
+.venv/
+ArduRevo fotky usporiadane/
+.pio/
+__pycache__/
+/esp32-cam/lib/
+/training/output/
